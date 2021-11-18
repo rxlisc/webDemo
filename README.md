@@ -1,2 +1,2 @@
 # webDemo
-this is a web demo project
+This is a web demo project to learn javascript from Rosen Lee.
